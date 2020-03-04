@@ -1,0 +1,51 @@
+#start2 {
+ text-align:center;
+ font-size: 120%;
+
+}
+#start {
+    text-align:center;
+    font-weight: 700;
+    font-size: 300%;
+}
+#start3 {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+ #menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  #menu li {
+    float: right;
+  }
+  
+  #menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+#menu li a:hover {
+    background-color: #111;
+  }
+  #pow {
+    text-align: center;
+    font-size: 300%;
+    font-style: oblique;
+  }
+  .main_color{background-color: #FFF200;}
+  .colora{background-color: #FF9500}
+  .colorb{background-color: #BF8430}
+  .colorc{background-color: #FFB040}
+  .colord{background-color: #FFC573}
+  header{
+    background-color: #FFF200;
+  }
